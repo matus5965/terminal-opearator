@@ -1,0 +1,698 @@
+﻿{
+  "stations": [
+    {
+      "callsign": "S01",
+      "positionDto": {
+        "x": 84,
+        "y": 78
+      },
+      "name": "Brnoslava - Královnino pole",
+      "units": [
+        {
+          "callsign": "J01",
+          "stationCallsign": "S01",
+          "state": "AVAILABLE",
+          "vehicleDto": {
+            "name": "Scania P440 6x6",
+            "type": "FIRE_ENGINE",
+            "fuelConsumption": 0.02,
+            "speed": 10,
+            "capacity": 5
+          },
+          "members": [
+            {
+              "callsign": "H01",
+              "unitCallsign": "J01",
+              "name": "Jan Ryzzling",
+              "rank": "CAPITAIN"
+            },
+            {
+              "callsign": "H02",
+              "unitCallsign": "J01",
+              "name": "Jakub Tyldák",
+              "rank": "OFFICER"
+            },
+            {
+              "callsign": "H03",
+              "unitCallsign": "J01",
+              "name": "Tomáš Pravý",
+              "rank": "OFFICER"
+            },
+            {
+              "callsign": "H04",
+              "unitCallsign": "J01",
+              "name": "Štěpán Šunkovský",
+              "rank": "SERGEANT"
+            },
+            {
+              "callsign": "H05",
+              "unitCallsign": "J01",
+              "name": "Michaela Parníková",
+              "rank": "SERGEANT"
+            }
+          ]
+        },
+        {
+          "callsign": "J02",
+          "stationCallsign": "S01",
+          "state": "AVAILABLE",
+          "vehicleDto": {
+            "name": "Toyota Hilux",
+            "type": "TECHNICAL_VEHICLE",
+            "fuelConsumption": 0.005,
+            "speed": 14,
+            "capacity": 4
+          },
+          "members": [
+            {
+              "callsign": "H01",
+              "unitCallsign": "J02",
+              "name": "Slávo Cvalko",
+              "rank": "CAPITAIN"
+            },
+            {
+              "callsign": "H02",
+              "unitCallsign": "J02",
+              "name": "Ondřej Křepelka",
+              "rank": "OFFICER"
+            },
+            {
+              "callsign": "H03",
+              "unitCallsign": "J02",
+              "name": "Barbora Dolníková",
+              "rank": "OFFICER"
+            },
+            {
+              "callsign": "H04",
+              "unitCallsign": "J02",
+              "name": "Markéta Zajícová",
+              "rank": "SERGEANT"
+            }
+          ]
+        },
+        {
+          "callsign": "J03",
+          "stationCallsign": "S01",
+          "state": "AVAILABLE",
+          "vehicleDto": {
+            "name": "Tatra Force 6x6",
+            "type": "RESCUE_VEHICLE",
+            "fuelConsumption": 0.04,
+            "speed": 10,
+            "capacity": 3
+          },
+          "members": [
+            {
+              "callsign": "H01",
+              "unitCallsign": "J03",
+              "name": "Martin Mazák",
+              "rank": "CAPITAIN"
+            },
+            {
+              "callsign": "H02",
+              "unitCallsign": "J03",
+              "name": "Robert Švarný",
+              "rank": "OFFICER"
+            },
+            {
+              "callsign": "H03",
+              "unitCallsign": "J03",
+              "name": "Jakub Wolků",
+              "rank": "PRIVATE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callsign": "S02",
+      "positionDto": {
+        "x": 10,
+        "y": 18
+      },
+      "name": "Brnoslava - Staré město",
+      "units": [
+        {
+          "callsign": "J01",
+          "stationCallsign": "S02",
+          "state": "AVAILABLE",
+          "vehicleDto": {
+            "name": "Scania P440 6x6",
+            "type": "FIRE_ENGINE",
+            "fuelConsumption": 0.02,
+            "speed": 10,
+            "capacity": 5
+          },
+          "members": [
+            {
+              "callsign": "H01",
+              "unitCallsign": "J01",
+              "name": "Jiří Parnát",
+              "rank": "CAPITAIN"
+            },
+            {
+              "callsign": "H02",
+              "unitCallsign": "J01",
+              "name": "Vojtěch Řeřicha",
+              "rank": "OFFICER"
+            },
+            {
+              "callsign": "H03",
+              "unitCallsign": "J01",
+              "name": "Ivana Bílá",
+              "rank": "OFFICER"
+            },
+            {
+              "callsign": "H04",
+              "unitCallsign": "J01",
+              "name": "Petr Počkai",
+              "rank": "SERGEANT"
+            }
+          ]
+        },
+        {
+          "callsign": "J02",
+          "stationCallsign": "S02",
+          "state": "AVAILABLE",
+          "vehicleDto": {
+            "name": "Volkswagen Crafter 4x4",
+            "type": "ANTI_GAS_VEHICLE",
+            "fuelConsumption": 0.01,
+            "speed": 12,
+            "capacity": 4
+          },
+          "members": [
+            {
+              "callsign": "H01",
+              "unitCallsign": "J02",
+              "name": "Vladimír Souček",
+              "rank": "CAPITAIN"
+            },
+            {
+              "callsign": "H02",
+              "unitCallsign": "J02",
+              "name": "Jakub Poštvanec",
+              "rank": "OFFICER"
+            }
+          ]
+        },
+        {
+          "callsign": "J03",
+          "stationCallsign": "S02",
+          "state": "AVAILABLE",
+          "vehicleDto": {
+            "name": "Terex Demag AC40",
+            "type": "CRANE_TRUCK",
+            "fuelConsumption": 0.04,
+            "speed": 8,
+            "capacity": 3
+          },
+          "members": [
+            {
+              "callsign": "H01",
+              "unitCallsign": "J03",
+              "name": "Adam Mesiáš",
+              "rank": "CAPITAIN"
+            },
+            {
+              "callsign": "H02",
+              "unitCallsign": "J03",
+              "name": "Anežka Vrabcová",
+              "rank": "OFFICER"
+            },
+            {
+              "callsign": "H03",
+              "unitCallsign": "J03",
+              "name": "Martin Bednička",
+              "rank": "SERGEANT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callsign": "S03",
+      "positionDto": {
+        "x": 92,
+        "y": 18
+      },
+      "name": "Brnoslava - Venkov",
+      "units": [
+        {
+          "callsign": "J01",
+          "stationCallsign": "S03",
+          "state": "AVAILABLE",
+          "vehicleDto": {
+            "name": "Scania P450 6x6",
+            "type": "FIRE_ENGINE",
+            "fuelConsumption": 0.04,
+            "speed": 12,
+            "capacity": 5
+          },
+          "members": [
+            {
+              "callsign": "H01",
+              "unitCallsign": "J01",
+              "name": "Miloš Štědrý",
+              "rank": "CAPITAIN"
+            },
+            {
+              "callsign": "H02",
+              "unitCallsign": "J01",
+              "name": "Jozef Brokeš",
+              "rank": "OFFICER"
+            },
+            {
+              "callsign": "H03",
+              "unitCallsign": "J01",
+              "name": "Jitka Smutná",
+              "rank": "OFFICER"
+            },
+            {
+              "callsign": "H04",
+              "unitCallsign": "J01",
+              "name": "Karel Špička",
+              "rank": "PRIVATE"
+            },
+            {
+              "callsign": "H05",
+              "unitCallsign": "J01",
+              "name": "Jiří Kouřil",
+              "rank": "PRIVATE"
+            }
+          ]
+        },
+        {
+          "callsign": "J02",
+          "stationCallsign": "S03",
+          "state": "AVAILABLE",
+          "vehicleDto": {
+            "name": "Scania P450 6x6",
+            "type": "FIRE_ENGINE",
+            "fuelConsumption": 0.04,
+            "speed": 10,
+            "capacity": 5
+          },
+          "members": [
+            {
+              "callsign": "H01",
+              "unitCallsign": "J02",
+              "name": "Antonín Blažák",
+              "rank": "CAPITAIN"
+            },
+            {
+              "callsign": "H02",
+              "unitCallsign": "J01",
+              "name": "Antonína Spurná",
+              "rank": "OFFICER"
+            },
+            {
+              "callsign": "H03",
+              "unitCallsign": "J02",
+              "name": "Jitka Veselá",
+              "rank": "OFFICER"
+            },
+            {
+              "callsign": "H04",
+              "unitCallsign": "J02",
+              "name": "Jozef Kolečko",
+              "rank": "PRIVATE"
+            }
+          ]
+        },
+        {
+          "callsign": "J03",
+          "stationCallsign": "S03",
+          "state": "AVAILABLE",
+          "vehicleDto": {
+            "name": "Iveco Daily 4x4",
+            "type": "TECHNICAL_VEHICLE",
+            "fuelConsumption": 0.008,
+            "speed": 14,
+            "capacity": 3
+          },
+          "members": [
+            {
+              "callsign": "H01",
+              "unitCallsign": "J03",
+              "name": "Eva Bílá",
+              "rank": "CAPITAIN"
+            },
+            {
+              "callsign": "H02",
+              "unitCallsign": "J03",
+              "name": "Pavel Bílý",
+              "rank": "OFFICER"
+            }
+          ]
+        },
+        {
+          "callsign": "J04",
+          "stationCallsign": "S03",
+          "state": "AVAILABLE",
+          "vehicleDto": {
+            "name": "Scania G500",
+            "type": "RESCUE_VEHICLE",
+            "fuelConsumption": 0.06,
+            "speed": 8,
+            "capacity": 3
+          },
+          "members": [
+            {
+              "callsign": "H01",
+              "unitCallsign": "J04",
+              "name": "Martin Konša",
+              "rank": "CAPITAIN"
+            },
+            {
+              "callsign": "H02",
+              "unitCallsign": "J04",
+              "name": "Miroslav Rindík",
+              "rank": "OFFICER"
+            },
+            {
+              "callsign": "H03",
+              "unitCallsign": "J04",
+              "name": "Zdeněk Nachodil",
+              "rank": "SERGEANT"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "incidentsHistory": [
+    {
+      "type": "RESCUE",
+      "location": { "x": 69, "y": 81 },
+      "description": "Paní zaseknutá pod kořenem",
+      "incidentStartTIme": "20.1.2024 06:20:11",
+      "assignedStation": "S01",
+      "assignedUnit": "J03"
+    },
+    {
+      "type": "ACCIDENT",
+      "location": { "x": 90, "y": 8 },
+      "description": "Opilý řidič srazil semafor",
+      "incidentStartTIme": "20.1.2024 06:28:45",
+      "assignedStation": "S03",
+      "assignedUnit": "J04"
+    },
+    {
+      "type": "TECHNICAL",
+      "location": { "x": 78, "y": 59 },
+      "description": "Odstranění nebezpečného pářezu",
+      "incidentStartTIme": "20.1.2024 06:32:04",
+      "assignedStation": "S01",
+      "assignedUnit": "J02"
+    },
+    {
+      "type": "FIRE",
+      "location": { "x": 55, "y": 73 },
+      "description": "Požár v obytném domě",
+      "incidentStartTIme": "20.1.2024 07:15:30",
+      "assignedStation": "S02",
+      "assignedUnit": "J01"
+    },
+    {
+      "type": "ACCIDENT",
+      "location": { "x": 65, "y": 42 },
+      "description": "Dopravní nehoda na křižovatce",
+      "incidentStartTIme": "20.1.2024 08:05:20",
+      "assignedStation": "S02",
+      "assignedUnit": "J02"
+    },
+    {
+      "type": "DISASTER",
+      "location": { "x": 80, "y": 90 },
+      "description": "Povodeň po prudkém dešti",
+      "incidentStartTIme": "20.1.2024 09:45:15",
+      "assignedStation": "S03",
+      "assignedUnit": "J03"
+    },
+    {
+      "type": "HAZARD",
+      "location": { "x": 40, "y": 30 },
+      "description": "Únik nebezpečných látek z továrny",
+      "incidentStartTIme": "20.1.2024 11:20:08",
+      "assignedStation": "S03",
+      "assignedUnit": "J01"
+    },
+    {
+      "type": "RESCUE",
+      "location": { "x": 15, "y": 60 },
+      "description": "Záchrana kočky ze stromu",
+      "incidentStartTIme": "20.1.2024 13:10:30",
+      "assignedStation": "S01",
+      "assignedUnit": "J03"
+    },
+    {
+      "type": "RESCUE",
+      "location": { "x": 72, "y": 95 },
+      "description": "Záchrana turistů ze skal",
+      "incidentStartTIme": "20.1.2024 14:40:55",
+      "assignedStation": "S02",
+      "assignedUnit": "J03"
+    },
+    {
+      "type": "ACCIDENT",
+      "location": { "x": 50, "y": 20 },
+      "description": "Nehoda na horské dráze",
+      "incidentStartTIme": "20.1.2024 16:25:40",
+      "assignedStation": "S03",
+      "assignedUnit": "J01"
+    },
+    {
+      "type": "TECHNICAL",
+      "location": { "x": 85, "y": 45 },
+      "description": "Oprava poruchy elektrické sítě",
+      "incidentStartTIme": "20.1.2024 18:10:12",
+      "assignedStation": "S01",
+      "assignedUnit": "J01"
+    },
+    {
+      "type": "DISASTER",
+      "location": { "x": 30, "y": 40 },
+      "description": "Zemětřesení v oblasti",
+      "incidentStartTIme": "20.1.2024 20:45:30",
+      "assignedStation": "S03",
+      "assignedUnit": "J03"
+    },
+    {
+      "type": "HAZARD",
+      "location": { "x": 65, "y": 15 },
+      "description": "Chemický únik z průmyslového areálu",
+      "incidentStartTIme": "20.1.2024 22:30:18",
+      "assignedStation": "S02",
+      "assignedUnit": "J03"
+    },
+    {
+      "type": "TECHNICAL",
+      "location": { "x": 55, "y": 78 },
+      "description": "Porucha vodovodního řádu v městské čtvrti",
+      "incidentStartTIme": "21.1.2024 01:15:45",
+      "assignedStation": "S01",
+      "assignedUnit": "J01"
+    },
+    {
+      "type": "FIRE",
+      "location": { "x": 80, "y": 50 },
+      "description": "Požár v průmyslovém skladu",
+      "incidentStartTIme": "21.1.2024 03:00:22",
+      "assignedStation": "S02",
+      "assignedUnit": "J01"
+    },
+    {
+      "type": "ACCIDENT",
+      "location": { "x": 40, "y": 60 },
+      "description": "Hromadná dopravní nehoda na dálnici",
+      "incidentStartTIme": "21.1.2024 05:30:10",
+      "assignedStation": "S03",
+      "assignedUnit": "J01"
+    },
+    {
+      "type": "RESCUE",
+      "location": { "x": 20, "y": 85 },
+      "description": "Záchranáři zachraňují horolezce na vrcholu hory",
+      "incidentStartTIme": "21.1.2024 08:20:55",
+      "assignedStation": "S02",
+      "assignedUnit": "J01"
+    },
+    {
+      "type": "ACCIDENT",
+      "location": { "x": 75, "y": 30 },
+      "description": "Kolize dvou nákladních vozidel",
+      "incidentStartTIme": "21.1.2024 11:10:40",
+      "assignedStation": "S01",
+      "assignedUnit": "J03"
+    },
+    {
+      "type": "FIRE",
+      "location": { "x": 10, "y": 25 },
+      "description": "Dým ze sklepa rodinného domu",
+      "incidentStartTIme": "21.1.2024 13:55:30",
+      "assignedStation": "S01",
+      "assignedUnit": "J01"
+    },
+    {
+      "type": "FIRE",
+      "location": { "x": 45, "y": 60 },
+      "description": "Požár v lesním porostu",
+      "incidentStartTIme": "22.1.2024 09:45:30",
+      "assignedStation": "S03",
+      "assignedUnit": "J04"
+    },
+    {
+      "type": "RESCUE",
+      "location": { "x": 75, "y": 35 },
+      "description": "Záchranáři zachraňují uvízlého horolezce",
+      "incidentStartTIme": "22.1.2024 12:30:15",
+      "assignedStation": "S01",
+      "assignedUnit": "J02"
+    },
+    {
+      "type": "TECHNICAL",
+      "location": { "x": 30, "y": 70 },
+      "description": "Výpadek elektrické energie ve čtvrti",
+      "incidentStartTIme": "22.1.2024 15:15:22",
+      "assignedStation": "S02",
+      "assignedUnit": "J03"
+    },
+    {
+      "type": "ACCIDENT",
+      "location": { "x": 60, "y": 25 },
+      "description": "Nehoda na stavbě s těžkými stroji",
+      "incidentStartTIme": "22.1.2024 18:00:10",
+      "assignedStation": "S01",
+      "assignedUnit": "J01"
+    },
+    {
+      "type": "HAZARD",
+      "location": { "x": 20, "y": 50 },
+      "description": "Únik plynu z plynovodu",
+      "incidentStartTIme": "22.1.2024 20:45:45",
+      "assignedStation": "S03",
+      "assignedUnit": "J03"
+    },
+    {
+      "type": "ACCIDENT",
+      "location": { "x": 70, "y": 45 },
+      "description": "Hromadná nehoda OA na dálnici",
+      "incidentStartTIme": "23.1.2024 03:30:30",
+      "assignedStation": "S03",
+      "assignedUnit": "J04"
+    },
+    {
+      "type": "DISASTER",
+      "location": { "x": 40, "y": 35 },
+      "description": "Zřícení části mostu při povodni",
+      "incidentStartTIme": "23.1.2024 10:00:12",
+      "assignedStation": "S01",
+      "assignedUnit": "J02"
+    },
+    {
+      "type": "FIRE",
+      "location": { "x": 15, "y": 50 },
+      "description": "Požár v průmyslovém areálu",
+      "incidentStartTIme": "24.1.2024 10:15:30",
+      "assignedStation": "S02",
+      "assignedUnit": "J01"
+    },
+    {
+      "type": "RESCUE",
+      "location": { "x": 45, "y": 25 },
+      "description": "Záchranáři zachraňují tonoucího plavce",
+      "incidentStartTIme": "24.1.2024 12:45:15",
+      "assignedStation": "S03",
+      "assignedUnit": "J02"
+    },
+    {
+      "type": "TECHNICAL",
+      "location": { "x": 80, "y": 70 },
+      "description": "Oprava poruchy vodovodního řádu",
+      "incidentStartTIme": "24.1.2024 15:30:22",
+      "assignedStation": "S01",
+      "assignedUnit": "J03"
+    },
+    {
+      "type": "ACCIDENT",
+      "location": { "x": 35, "y": 40 },
+      "description": "Nehoda na křižovatce",
+      "incidentStartTIme": "24.1.2024 18:00:10",
+      "assignedStation": "S02",
+      "assignedUnit": "J02"
+    },
+    {
+      "type": "HAZARD",
+      "location": { "x": 65, "y": 60 },
+      "description": "Únik nebezpečných látek z laboratoře",
+      "incidentStartTIme": "24.1.2024 20:45:45",
+      "assignedStation": "S03",
+      "assignedUnit": "J03"
+    },
+    {
+      "type": "ACCIDENT",
+      "location": { "x": 25, "y": 35 },
+      "description": "Havárie dvou autobusů na dálnici",
+      "incidentStartTIme": "25.1.2024 03:30:30",
+      "assignedStation": "S01",
+      "assignedUnit": "J01"
+    },
+    {
+      "type": "DISASTER",
+      "location": { "x": 60, "y": 45 },
+      "description": "Přívalový déšť způsobuje záplavy",
+      "incidentStartTIme": "25.1.2024 07:15:18",
+      "assignedStation": "S01",
+      "assignedUnit": "J02"
+    },
+    {
+      "type": "RESCUE",
+      "location": { "x": 40, "y": 20 },
+      "description": "Záchranáři evakuují lidi z podtunelu",
+      "incidentStartTIme": "25.1.2024 10:00:12",
+      "assignedStation": "S03",
+      "assignedUnit": "J03"
+    },
+    {
+      "type": "FIRE",
+      "location": { "x": 50, "y": 30 },
+      "description": "Požár v obytném domě",
+      "incidentStartTIme": "26.1.2024 09:45:30",
+      "assignedStation": "S01",
+      "assignedUnit": "J01"
+    },
+    {
+      "type": "RESCUE",
+      "location": { "x": 70, "y": 55 },
+      "description": "Záchranáři zachraňují uvízlého horolezce",
+      "incidentStartTIme": "26.1.2024 12:30:15",
+      "assignedStation": "S02",
+      "assignedUnit": "J02"
+    },
+    {
+      "type": "TECHNICAL",
+      "location": { "x": 15, "y": 65 },
+      "description": "Oprava poruchy elektrické sítě",
+      "incidentStartTIme": "26.1.2024 15:15:22",
+      "assignedStation": "S03",
+      "assignedUnit": "J03"
+    },
+    {
+      "type": "ACCIDENT",
+      "location": { "x": 80, "y": 40 },
+      "description": "Čelní kolize dvou osobních vozidel",
+      "incidentStartTIme": "26.1.2024 18:00:10",
+      "assignedStation": "S01",
+      "assignedUnit": "J03"
+    },
+    {
+      "type": "DISASTER",
+      "location": { "x": 25, "y": 45 },
+      "description": "Sesuv půdy v chatařské oblasti",
+      "incidentStartTIme": "27.1.2024 07:15:18",
+      "assignedStation": "S03",
+      "assignedUnit": "J03"
+    }
+  ]
+}

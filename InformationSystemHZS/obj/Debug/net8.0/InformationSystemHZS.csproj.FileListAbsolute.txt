@@ -1,0 +1,17 @@
+C:\Users\matus\OneDrive\Desktop\school\pv178-cs\HWs\HW02\InformationSystemHZS\bin\Debug\net8.0\InformationSystemHZS.exe
+C:\Users\matus\OneDrive\Desktop\school\pv178-cs\HWs\HW02\InformationSystemHZS\bin\Debug\net8.0\InformationSystemHZS.deps.json
+C:\Users\matus\OneDrive\Desktop\school\pv178-cs\HWs\HW02\InformationSystemHZS\bin\Debug\net8.0\InformationSystemHZS.runtimeconfig.json
+C:\Users\matus\OneDrive\Desktop\school\pv178-cs\HWs\HW02\InformationSystemHZS\bin\Debug\net8.0\InformationSystemHZS.dll
+C:\Users\matus\OneDrive\Desktop\school\pv178-cs\HWs\HW02\InformationSystemHZS\bin\Debug\net8.0\InformationSystemHZS.pdb
+C:\Users\matus\OneDrive\Desktop\school\pv178-cs\HWs\HW02\InformationSystemHZS\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\matus\OneDrive\Desktop\school\pv178-cs\HWs\HW02\InformationSystemHZS\obj\Debug\net8.0\InformationSystemHZS.csproj.AssemblyReference.cache
+C:\Users\matus\OneDrive\Desktop\school\pv178-cs\HWs\HW02\InformationSystemHZS\obj\Debug\net8.0\InformationSystemHZS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matus\OneDrive\Desktop\school\pv178-cs\HWs\HW02\InformationSystemHZS\obj\Debug\net8.0\InformationSystemHZS.AssemblyInfoInputs.cache
+C:\Users\matus\OneDrive\Desktop\school\pv178-cs\HWs\HW02\InformationSystemHZS\obj\Debug\net8.0\InformationSystemHZS.AssemblyInfo.cs
+C:\Users\matus\OneDrive\Desktop\school\pv178-cs\HWs\HW02\InformationSystemHZS\obj\Debug\net8.0\InformationSystemHZS.csproj.CoreCompileInputs.cache
+C:\Users\matus\OneDrive\Desktop\school\pv178-cs\HWs\HW02\InformationSystemHZS\obj\Debug\net8.0\Informat.B959A6B3.Up2Date
+C:\Users\matus\OneDrive\Desktop\school\pv178-cs\HWs\HW02\InformationSystemHZS\obj\Debug\net8.0\InformationSystemHZS.dll
+C:\Users\matus\OneDrive\Desktop\school\pv178-cs\HWs\HW02\InformationSystemHZS\obj\Debug\net8.0\refint\InformationSystemHZS.dll
+C:\Users\matus\OneDrive\Desktop\school\pv178-cs\HWs\HW02\InformationSystemHZS\obj\Debug\net8.0\InformationSystemHZS.pdb
+C:\Users\matus\OneDrive\Desktop\school\pv178-cs\HWs\HW02\InformationSystemHZS\obj\Debug\net8.0\InformationSystemHZS.genruntimeconfig.cache
+C:\Users\matus\OneDrive\Desktop\school\pv178-cs\HWs\HW02\InformationSystemHZS\obj\Debug\net8.0\ref\InformationSystemHZS.dll

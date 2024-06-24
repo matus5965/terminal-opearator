@@ -1,0 +1,380 @@
+moja mama vari lepsie ako tvoja
+mama, ja su jozko
+
+given input here
+list-units
+list-units
+list-stations
+report 10 20 HAZZARD "Ohnik"
+report 10 100 OHNIK "Ohen"
+report 10 -1 OHNIK "Ohen"
+report 10 10 OHNIK "Ohen"
+report 10 10 fire "Ohen"
+add-member
+add-member s01 j01 Petko
+add-member S01 S01 "Anderj Bem"
+add-member S01 J01 "Anderj Bem"
+list-units
+add-member S03 J01 "Anderj Bem"
+add-member S03 J02 "Anderj Bem"
+add-member S03 J02 "Anderj Bem"
+add-member S03 J02 "Anderj Bem"
+add-member S03 J03 "Anderj Bem"
+add-member S03 J03 "Anderj Bem"
+list-units
+add-member S02 J01 "Anderj Bem"
+add-member S02 J01 "Anderj Bem"
+add-member S02 J02 "Anderj Bem"
+add-member S02 J02 "Anderj Bem"
+add-member S02 J02 "Anderj Bem"
+list-units
+reassign-unit S01 J03 S03
+list-units
+reassign-unit S01 J02 S03
+reassign-unit S01 J01 S03
+reassign-unit S01 J01 S03
+list-units
+reassign-unit S03 J07 S01
+list-units
+reassign-unit S03 J05 S01
+reassign-unit S03 J04 S01
+list-units
+reassign-unit S03 J06 S01
+list-units
+reassign-unit S01 J04 S03
+list-units
+statistics
+report 100 12 ACCIDENT "Ohen"
+report 99 12 ACCIDENT "Ohen"
+list-units
+list-units
+list-units
+list-units
+list-units
+report 99 12 ACCIDENT "Ohen"
+report 99 12 ACCIDENT "Ohen"
+statistics
+list-units
+list-units
+statistics
+report 0 0 ACCIDENT "Ohen"
+list-units
+statistics
+statistics
+list=units
+list-units
+report 0 0 FIRE "Ohen"
+reassign-unit S02 J01 S03
+list-units
+report 0 0 FIRE "Ohen"
+reassign-unit S03 J01 S02
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+reassign-unit S02 J01 S03
+list-units
+report 0 0 FIRE "Ohen"
+list-units
+reassign-unit S02 J04 S03
+list-units
+list-units
+list-units
+list-units
+list-incidents
+list-units
+list-stations
+reassign-unit S01 J01 S03
+reassign-unit S01 J02 S03
+reassign-unit S01 J03 S03
+reassign-unit S01 J03 S03
+list-stations
+statistics
+list-units
+add-member S01 J01 "Boromir Mazur"
+add-member S02 J01 "Boromir Mazur"
+add-member S02 J01 "Boromir Mazur"
+add-member S03 J04 "Boromir Mazur"
+reassign-member S03 J04 H01 S03 J03 "Boromir Mazur"
+list-units
+reassign-member S03 J04 H01 S03 J03
+list-units
+reassign-member S03 J04 H01 S03 J03
+reassign-member S03 J04 H02 S03 J03
+reassign-member S03 J04 H02 S03 J02
+list-units
+reassign-member S03 J04 H03 S02 J02
+remove-member S03 J04 H03
+reassign-member S04 J04 H02 S03 J02
+reassign-member S03 J05 H02 S03 J02
+reassign-member S03 J04 H04 S03 J02
+reassign-member S03 J04 H03 S04 J02
+reassign-member S03 J04 H03 S03 J01
+reassign-member S03 J04 H03 S03 J05
+remove-member S04 J01 H01
+remove-member S01 J09 H01
+remove-member S01 J01 H05
+remove-member S01 J01 H05
+list-units
+list-units
+list-units
+reassign-unit S03 J04 S01
+reassign-unit S03 J03 S01
+reassign-unit S03 J02 S01
+reassign-unit S03 J01 S01
+reassign-unit S02 J01 S01
+reassign-unit S02 J02 S01
+reassign-unit S02 J03 S01
+list-units
+list-stations
+list-incidents
+report 45 48 FIRE "Moj boze"
+report 45 48 FIRE
+report 45 48 FIRE 
+report 45 48 FIRE               
+report "moja mama""tvoj tata"
+report "moja mama"tvoj tata"
+report "moja mama" tvoj tata"
+report "moja mamatvoj tata"
+report 10 10 FIRE "a"
+report 10 10 FIRE "a"
+report 10 10 FIRE "a"
+report 10 10 FIRE "a"
+report 10 10 FIRE "a"
+report 10 10 KON "a"
+statistics k
+statistics
+list-units
+report 45 48 FIRE "ohen"
+list-incidents
+list-units
+list-units
+list-units
+list-units
+statistics
+report 45 48 FIRE "ohen"
+list-incidents
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+report 45 48 FIRE "ohen"
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+report 45 48 FIRE "ohen"
+report 45 48 FIRE "Ohen"
+report 45 48 FIRE "Ohen"
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+report 45 48 FIRE "Ohen"
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+report 23 89 HAZARD "lopata"
+list-units
+list-units
+report 45 48 FIRE "Ohen"
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+report 23 89 HAZARD "lopata"
+
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+report 78 94 ACCIDENT "Treba mi daco"
+list-units
+list-units
+list-units
+report 23 89 HAZARD "lopata"
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units\
+list-units
+report 78 94 ACCIDENT "Treba mi daco"
+list-units
+list-units
+list-units
+list-units
+statistics
+statistics
+statistics
+list-units
+list-stations
+add-member S03 J04 "Ivan kombat"
+add-member S03 J03 "Ivan kombat"
+add-member S03 J03 "Ivan kombat"
+list-stations
+list-units
+add-member S03 J02 "Ivan kombat"
+list-units
+reassign-member S03 J04 H01 S01 J01
+reassign-member S03 J04 H01 S02 J01
+list-units
+reassign-member S03 J04 H01 S02 J02
+reassign-member S03 J04 H02 S02 J02
+list-units
+reassign-member S03 J04 H01 S02 J02
+reassign-member S03 J04 H02 S02 J02
+reassign-member S03 J04 H03 S02 J02
+reassign-unit S01 J03 S03
+list-units
+reassign-unit S01 J02 S03
+reassign-unit S01 J01 S03
+reassign-unit S01 J01 S03
+reassign-unit S01 J02 S03
+reassign-unit S01 J00 S03
+list-units
+reassign-unit S02 J04 S03
+reassign-unit S02 J00 S03
+reassign-unit S02 j00 S03
+reassign-unit S02 J03 S03
+reassign-unit S02 J02 S03
+reassign-unit S02 J01 S03
+list-units
+reassign-unit S03 J11 S04
+reassign-unit S03 J11 S01
+reassign-unit S03 J10 S01
+list-units
+report 50 50 GOL lopata"
+report 50 50 FIRE lopata"
+list-incidents
+report 50 50 FIRE lopata kokt"
+report 50 50 FIRE "lopata
+list-incidents
+report 50 50 FIRE lopata
+list-units
+report 50 50 FIRE lopata
+list-incidents
+list-incidents
+report 50 50 FIRE "lopata
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+list-units
+report 50 50 FIRE lopata
+statistics
+reassign-unit S01 J01 S03
+reassign-unit S01 J02 S03
+statistics
